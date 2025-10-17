@@ -29,7 +29,9 @@ It’s a simple, offline-ready **To-Do List App** that stores tasks locally, all
 
 ## 📁 Project Structure
 📦 my-pwa-app
+
 ├── public/
+
 │   ├── manifest.webmanifest
 
 │   ├── icons/
