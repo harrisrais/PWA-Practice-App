@@ -39,12 +39,20 @@ It’s a simple, offline-ready **To-Do List App** that stores tasks locally, all
 │   └── favicon.ico
 
 ├── src/
+
 │   └── app/
+
 │       ├── components/
+
 │       │   └── TodoList.jsx
+
 │       ├── layout.js
+
 │       └── page.js
+
 ├── next.config.mjs
+
 ├── package.json
+
 └── README.md
 
